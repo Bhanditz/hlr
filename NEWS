@@ -1,0 +1,11 @@
+0.0-4
+	o fix example 3 in WEMEL help page (Andreas Christmann)
+0.0-3
+	o suppress warnings in the glm calls of MEL and WEMEL 
+	  for which we know they will occur by construction 
+	  of the algorithm (Andreas Christmann)
+0.0-2
+	o completed documentation
+	o made plot-functions somewhat more flexible
+	o added which argument for WEMEL plots, similar
+	  in spirit to the which argument of plot.lm

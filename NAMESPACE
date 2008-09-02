@@ -1,0 +1,8 @@
+import(MASS)
+export(MEL, WEMEL)
+S3method(print, MEL)
+S3method(summary, MEL)
+S3method(plot, MEL)
+S3method(print, WEMEL)
+S3method(summary, WEMEL)
+S3method(plot, WEMEL)

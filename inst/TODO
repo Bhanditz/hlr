@@ -1,0 +1,5 @@
+o add food stamp data set (Kuensch et al. 1989)
+o add example using vaso (robustbase), toxo (SMPracticals),
+   and / or Banknotes (ncomplete)
+o simple vignette reproducing some of the results
+  of the paper (using the aforementioned datasets)
